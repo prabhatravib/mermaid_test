@@ -1,6 +1,7 @@
 sankey-beta
 
-%% source,target,value
-Electricity grid,Over generation / exports,104.453
-Electricity grid,Heating and cooling - homes,113.726
-Electricity grid,H2 conversion,27.14
+Bio-conversion,Losses,26.862
+
+Bio-conversion,Solid,280.322
+
+Bio-conversion,Gas,81.144
